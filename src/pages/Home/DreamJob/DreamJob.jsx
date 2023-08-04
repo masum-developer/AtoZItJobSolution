@@ -6,9 +6,9 @@ const DreamJob = () => {
             <div className="row row-cols-1 row-cols-md-1 row-cols-lg-2 g-4 mt-5">
                 <div className="col">
                     <div className='w-50'>
-                    <p style={{
+                    <p className='px-3' style={{
             'background-color':
-              '#00bfff',
+              '#ffffea',
           }}>It was a really cool experience with A to Z It Job Solution. It was very simple and clean without the bugging from job consultants. Keep up the good work guys!</p>
                     </div>
                     <div className='d-flex'> 
@@ -22,9 +22,9 @@ const DreamJob = () => {
                 
                 <div className="col">
                     <div className='w-50'>
-                    <p style={{
+                    <p className='px-3' style={{
             'background-color':
-              '#00bfff',
+              '#ffffea',
           }}>Little did I know about the reach of Instahyre. They have hundreds of start-ups searching for candidates. I received a good number of offers!</p>
                     </div>
                     <div className='d-flex'> 

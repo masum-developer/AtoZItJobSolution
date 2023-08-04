@@ -46,13 +46,7 @@ const Slider = () => {
           
           <div className="text" data-swiper-parallax="-100">
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam
-              dictum mattis velit, sit amet faucibus felis iaculis nec. Nulla
-              laoreet justo vitae porttitor porttitor. Suspendisse in sem justo.
-              Integer laoreet magna nec elit suscipit, ac laoreet nibh euismod.
-              Aliquam hendrerit lorem at elit facilisis rutrum. Ut at
-              ullamcorper velit. Nulla ligula nisi, imperdiet ut lacinia nec,
-              tincidunt ut libero. Aenean feugiat non eros quis feugiat.
+            Are you ready to take your career to new heights? Your resume is the first impression potential employers have of you, and it is crucial to make it stand out from the competition. Let us help you craft a compelling and professional resume that showcases your skills, accomplishments, and potential.
             </p>
           </div>
         </SwiperSlide>
@@ -63,13 +57,7 @@ const Slider = () => {
           
           <div className="text" data-swiper-parallax="-100">
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam
-              dictum mattis velit, sit amet faucibus felis iaculis nec. Nulla
-              laoreet justo vitae porttitor porttitor. Suspendisse in sem justo.
-              Integer laoreet magna nec elit suscipit, ac laoreet nibh euismod.
-              Aliquam hendrerit lorem at elit facilisis rutrum. Ut at
-              ullamcorper velit. Nulla ligula nisi, imperdiet ut lacinia nec,
-              tincidunt ut libero. Aenean feugiat non eros quis feugiat.
+              Apply the job in local company or abroad company.
             </p>
           </div>
         </SwiperSlide>
@@ -80,13 +68,7 @@ const Slider = () => {
           
           <div className="text" data-swiper-parallax="-100">
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipiscing elit. Aliquam
-              dictum mattis velit, sit amet faucibus felis iaculis nec. Nulla
-              laoreet justo vitae porttitor porttitor. Suspendisse in sem justo.
-              Integer laoreet magna nec elit suscipit, ac laoreet nibh euismod.
-              Aliquam hendrerit lorem at elit facilisis rutrum. Ut at
-              ullamcorper velit. Nulla ligula nisi, imperdiet ut lacinia nec,
-              tincidunt ut libero. Aenean feugiat non eros quis feugiat.
+              In Interview answer the question properly.
             </p>
           </div>
         </SwiperSlide>

@@ -8,7 +8,7 @@ const SearchJob = () => {
     const [searchText, setSearchText] = useState("");
     const handleSearch = () => {
         console.log(searchText);
-        // fetch(`https://my-avenger-server.vercel.app/job-name/${searchText}`)
+        // fetch(`url/${searchText}`)
         //     .then((res) => res.json())
         //     .then((data) => {
         //         console.log(data);
